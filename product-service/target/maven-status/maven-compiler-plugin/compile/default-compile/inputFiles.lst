@@ -1,0 +1,7 @@
+/home/kyle/Documents/finalMicro/product-service/src/main/java/com/kyletechie/productservice/repository/ProductRepository.java
+/home/kyle/Documents/finalMicro/product-service/src/main/java/com/kyletechie/productservice/ProductServiceApplication.java
+/home/kyle/Documents/finalMicro/product-service/src/main/java/com/kyletechie/productservice/dto/ProductRequest.java
+/home/kyle/Documents/finalMicro/product-service/src/main/java/com/kyletechie/productservice/service/ProductService.java
+/home/kyle/Documents/finalMicro/product-service/src/main/java/com/kyletechie/productservice/model/Product.java
+/home/kyle/Documents/finalMicro/product-service/src/main/java/com/kyletechie/productservice/controller/ProductController.java
+/home/kyle/Documents/finalMicro/product-service/src/main/java/com/kyletechie/productservice/dto/ProductResponse.java

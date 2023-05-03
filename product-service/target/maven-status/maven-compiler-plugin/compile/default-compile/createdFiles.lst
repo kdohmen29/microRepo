@@ -1,0 +1,10 @@
+com/kyletechie/productservice/repository/ProductRepository.class
+com/kyletechie/productservice/service/ProductService.class
+com/kyletechie/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/kyletechie/productservice/model/Product.class
+com/kyletechie/productservice/dto/ProductRequest.class
+com/kyletechie/productservice/controller/ProductController.class
+com/kyletechie/productservice/dto/ProductResponse.class
+com/kyletechie/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/kyletechie/productservice/model/Product$ProductBuilder.class
+com/kyletechie/productservice/ProductServiceApplication.class

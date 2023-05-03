@@ -1,0 +1,5 @@
+com/kyletechie/inventoryservice/controller/InventoryController.class
+com/kyletechie/inventoryservice/InventoryServiceApplication.class
+com/kyletechie/inventoryservice/model/Inventory.class
+com/kyletechie/inventoryservice/repository/InventoryRepository.class
+com/kyletechie/inventoryservice/service/InventoryService.class
